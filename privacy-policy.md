@@ -4,7 +4,7 @@
 **Effective date:** October 1, 2026
 **Status:** Final
 
-This Privacy Policy explains how Lotjitsu, L.L.C. ("LotJitsu," "we," "us") collects, uses, and shares information when you visit lotjitsu.com or use the LotJitsu application and related services.
+This Privacy Policy explains how LotJitsu, L.L.C. ("LotJitsu," "we," "us") collects, uses, and shares information when you visit lotjitsu.com or use the LotJitsu application and related services.
 
 ## 1. What we collect
 
