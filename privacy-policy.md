@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0
 **Effective date:** Pending launch
-**Status:** Draft, pending legal review
+**Status:** Draft
 
 This policy explains what information LotJitsu collects, why, and what happens to it. Plain language is used on purpose.
 
