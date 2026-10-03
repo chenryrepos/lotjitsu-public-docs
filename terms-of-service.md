@@ -2,7 +2,7 @@
 
 **Version:** 1.0.0
 **Effective date:** Pending launch
-**Status:** Draft, pending legal review
+**Status:** Draft, Pending legal review.
 
 These terms are a contract between you and LotJitsu ("we", "us") covering your use of the LotJitsu application and website. Plain language is used on purpose. If you do not agree with these terms, do not use the service.
 
