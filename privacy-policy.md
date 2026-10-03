@@ -1,10 +1,10 @@
 # LotJitsu Privacy Policy
 
-**Version:** 1.0.0
-**Effective date:** Pending launch
-**Status:** Draft
+**Version:** 1.1.0
+**Effective date:** October 1, 2026
+**Status:** Final
 
-This policy explains what information LotJitsu collects, why, and what happens to it. Plain language is used on purpose.
+This Privacy Policy explains how Lotjitsu, L.L.C. ("LotJitsu," "we," "us") collects, uses, and shares information when you visit lotjitsu.com or use the LotJitsu application and related services.
 
 ## 1. What we collect
 
@@ -28,13 +28,7 @@ We do not sell your personal information, and we do not use your data for third-
 
 ## 3. Who we share it with
 
-Only service providers we use to run LotJitsu, and only what each needs:
-
-- **Cloud hosting and storage** for the application and your photographs.
-- **Stripe** for payments.
-- **Our AI provider** to generate listing text from your photographs when you use AI features.
-- **Our email provider** to deliver transactional email.
-- **Google Analytics**, only if you accepted analytics cookies.
+Only service providers we use to run LotJitsu, and only what each needs: cloud hosting and storage for the application and your photographs; Stripe for payments; our AI provider, to generate listing text from your photographs when you use AI features; our email provider, to deliver transactional email; and Google Analytics, only if you accepted analytics cookies.
 
 We may also disclose information if the law requires it, or to protect the service and its users from abuse or fraud.
 
@@ -42,14 +36,14 @@ We may also disclose information if the law requires it, or to protect the servi
 
 Essential cookies keep you signed in and are always on. Analytics cookies are off until you accept them, and you can decline or change your choice at any time from the Cookie Choices link in the site footer. Analytics, when on, tells us which pages get read and which features get used. It does not follow you around other websites.
 
-## 5. Who can see your auctions
+## 5. Who can see your catalogs
 
-Only you and the people you share with. An auction is private to your account until you share a folder or a specific auction with someone. Nothing you catalog is public, and other LotJitsu customers cannot see your sales.
+Your catalogs are private to your account and the people you authorize to access them. Authorized LotJitsu personnel and service providers may access catalog content as needed to operate, support, or secure the service. We do not make your catalogs publicly available. Other LotJitsu customers cannot access your catalogs unless you grant them access.
 
 ## 6. How long we keep things
 
 - Account data: for as long as your account is open.
-- Deleted folders, auctions, and lots: recoverable for 30 days, then permanently removed.
+- Deleted folders, catalogs, and lots: recoverable for 30 days, then permanently removed.
 - Built export packages: kept in your export history for one year.
 - Backups and logs: kept on rolling schedules and then removed.
 

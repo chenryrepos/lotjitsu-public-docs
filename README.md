@@ -4,8 +4,8 @@ Canonical, versioned source for LotJitsu's customer-facing legal documents.
 
 | Document | Current version | Effective date |
 | --- | --- | --- |
-| [Terms of Service](terms-of-service.md) | 1.0.0 | Pending launch |
-| [Privacy Policy](privacy-policy.md) | 1.0.0 | Pending launch |
+| [Terms of Service](terms-of-service.md) | 1.1.0 | October 1, 2026 |
+| [Privacy Policy](privacy-policy.md) | 1.1.0 | October 1, 2026 |
 
 ## How versioning works
 
@@ -16,9 +16,6 @@ Canonical, versioned source for LotJitsu's customer-facing legal documents.
 
 ## Status
 
-**Draft, pending legal review.** Version 1.0.0 was drafted 2026-08-08 and has not yet been reviewed by counsel. Items flagged for review:
+**Final.** Version 1.1.0 of both documents is effective October 1, 2026.
 
-1. Governing law and venue (currently Georgia, United States).
-2. Support contact address (currently support@lotjitsu.com; confirm the mailbox exists before launch).
-3. A definitive statement on AI model training and customer photos is deliberately absent pending an owner decision. Do not add one to either document until that decision is made.
-4. Limitation-of-liability caps and refund language.
+A definitive statement on AI model training and customer photos is deliberately absent pending an owner decision. Do not add one to either document until that decision is made.
