@@ -4,7 +4,7 @@ Canonical, versioned source for LotJitsu's customer-facing legal documents.
 
 | Document | Current version | Effective date |
 | --- | --- | --- |
-| [Terms of Service](terms-of-service.md) | 1.2.0 | October 12, 2026 |
+| [Terms of Service](terms-of-service.md) | 1.2.1 | October 12, 2026 |
 | [Privacy Policy](privacy-policy.md) | 1.2.0 | October 12, 2026 |
 
 ## How versioning works

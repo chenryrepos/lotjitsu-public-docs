@@ -4,6 +4,10 @@ All notable changes to the documents in this repository.
 
 ## Terms of Service
 
+### 1.2.1 (2026-10-12)
+
+- Plans and payment: the no-commission sentence drops the auction vocabulary ("hammer price", "buyer's premium") for "sale price" and "any premium" (owner, 2026-10-12: the product's vocabulary is catalogs and sellers). Wording only; no change in meaning.
+
 ### 1.2.0 (2026-10-12)
 
 - Effective date set to October 12, 2026. Status: Final. Owner-approved 2026-10-12.

@@ -1,6 +1,6 @@
 # LotJitsu Terms of Service
 
-**Version:** 1.2.0
+**Version:** 1.2.1
 **Effective date:** October 12, 2026
 **Status:** Final
 
@@ -29,7 +29,7 @@ LotJitsu does not connect to, sign in to, or publish to any catalog platform. It
 - You can cancel at any time from your account. Cancellation takes effect at the end of the period you have paid for, and you keep your plan's capacity until then. We do not refund the remainder of a billing period, except where the law requires a refund.
 - A lot counts against your monthly export allowance the first time you export it. Re-exporting a lot you have not changed does not count again. Changing a lot's photographs makes it count again on its next export. Allowances reset on your monthly renewal date, and unused allowance does not carry over.
 - Plan upgrades take effect immediately and are prorated: you pay the difference for the remainder of the billing period. There is no contract beyond the period you have paid for and no setup fee.
-- We take no commission on your sales. No percentage of the hammer price, no cut of the buyer's premium.
+- We take no commission on your sales. No percentage of the sale price, no cut of any premium.
 
 ## 4. Your content
 
