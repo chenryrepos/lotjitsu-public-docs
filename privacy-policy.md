@@ -8,7 +8,7 @@ This Privacy Policy explains how LotJitsu, L.L.C. ("LotJitsu," "we," "us") colle
 
 ## 1. What we collect
 
-**Account information.** Your name, email address, and phone number, provided when you register or edit your profile.
+**Account information.** Your name, email address, and phone number, provided when you register or edit your profile. Your phone number is used only by support to reach you about your account.
 
 **Your catalog content.** The photographs you upload and the listing text you write or generate. Embedded location data (GPS coordinates) is stripped from every photograph on upload, so the location where a photo was taken does not travel with it.
 

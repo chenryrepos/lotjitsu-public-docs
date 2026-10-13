@@ -28,7 +28,7 @@ All notable changes to the documents in this repository.
 ### 1.2.0 (2026-10-12)
 
 - Effective date set to October 12, 2026. Status: Final. Owner-approved 2026-10-12.
-- What we collect: sign-in provider information (Apple, Google), support conversations, the mobile app's camera, photo library and notification-token use, and address lookups.
+- What we collect: the phone number's use is stated (support contact about your account); sign-in provider information (Apple, Google), support conversations, the mobile app's camera, photo library and notification-token use, and address lookups.
 - Who we share it with: the providers are now named (Amazon Web Services, Stripe, Anthropic, Help Scout, Apple, Google, Cloudflare, Google Analytics) with what each receives. Required for the App Store privacy label and the Google Play Data safety form, which must match this policy.
 - Your rights and choices: deletion is possible without a password, in the app or on the website, and by request at support@lotjitsu.com or lotjitsu.com/delete-account; what deletion removes and what is kept (billing records, Terms acceptances, support conversations) is stated; California, EU and UK rights are named.
 - Changes to this policy: links the public documents repository.
