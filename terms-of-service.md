@@ -1,7 +1,7 @@
 # LotJitsu Terms of Service
 
-**Version:** 1.1.0
-**Effective date:** October 1, 2026
+**Version:** 1.2.0
+**Effective date:** October 12, 2026
 **Status:** Final
 
 These Terms govern your use of LotJitsu, provided by LotJitsu, L.L.C. ("LotJitsu," "we," "us"). By creating an account and accepting these Terms, you agree to follow them. If you use LotJitsu on behalf of a business, you confirm that you are authorized to accept these Terms for that business.
@@ -23,11 +23,12 @@ LotJitsu does not connect to, sign in to, or publish to any catalog platform. It
 
 ## 3. Plans and payment
 
-- LotJitsu offers a free plan and paid monthly plans. What changes between plans is capacity: how many lots you can export each month, how many people can work in your account, and how many photos you can attach to a lot.
-- Paid plans are billed monthly through Stripe, our payment processor. Your card details go to Stripe and never reach our servers.
-- You can cancel at any time. Cancellation takes effect at the end of the current billing period.
+- LotJitsu offers a free plan and paid plans billed either monthly or yearly. What changes between plans is capacity: how many lots you can export each month, how many people can work in your account, and how many photos you can attach to a lot.
+- Paid plans are billed through Stripe, our payment processor. Your card details go to Stripe and never reach our servers.
+- **Paid plans renew automatically.** A monthly plan renews each month and a yearly plan renews each year, on your renewal date, at the price then shown for your plan, until you cancel. The current prices are shown on the pricing page and in your account before you pay.
+- You can cancel at any time from your account. Cancellation takes effect at the end of the period you have paid for, and you keep your plan's capacity until then. We do not refund the remainder of a billing period, except where the law requires a refund.
 - A lot counts against your monthly export allowance the first time you export it. Re-exporting a lot you have not changed does not count again. Changing a lot's photographs makes it count again on its next export. Allowances reset on your monthly renewal date, and unused allowance does not carry over.
-- Plan upgrades take effect immediately and are prorated: you pay the difference for the remainder of the billing period. Plans are month to month, with no contract and no setup fee.
+- Plan upgrades take effect immediately and are prorated: you pay the difference for the remainder of the billing period. There is no contract beyond the period you have paid for and no setup fee.
 - We take no commission on your sales. No percentage of the hammer price, no cut of the buyer's premium.
 
 ## 4. Your content
@@ -63,7 +64,7 @@ We may suspend or close accounts that violate these rules.
 
 - Folders, catalogs, and lots you delete are recoverable for 30 days, then permanently removed.
 - Built export packages are kept in your export history for one year from creation.
-- You can close your account at any time. Export anything you want to keep first; downloaded packages remain yours.
+- You can delete your account at any time, in the app or on the website, without a password. If you can no longer sign in, email support@lotjitsu.com from the address on the account or use lotjitsu.com/delete-account. Deleting your account cancels any paid plan immediately, with no refund for the remainder of the period. Export anything you want to keep first; downloaded packages remain yours.
 
 ## 9. Service changes and availability
 
