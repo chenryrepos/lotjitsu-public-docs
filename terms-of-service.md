@@ -1,7 +1,6 @@
 # LotJitsu Terms of Service
 
 **Version:** 1.3.0
-**Revision date:** October 14, 2026
 **Effective date:** October 14, 2026
 
 These Terms govern your use of LotJitsu, provided by LotJitsu, L.L.C. ("LotJitsu," "we," "us"). By creating an account and accepting these Terms, you agree to follow them. If you use LotJitsu on behalf of a business, you confirm that you are authorized to accept these Terms for that business.
