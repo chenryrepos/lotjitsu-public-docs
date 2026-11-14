@@ -29,6 +29,12 @@ All notable changes to the documents in this repository.
 
 ## Privacy Policy
 
+### 1.2.1 (2026-11-14)
+
+- Effective date set to November 14, 2026. Status: Final. Version number and date chosen by the owner, 2026-11-14.
+- Cookies and analytics: in the United States, analytics cookies are on and no choice is asked; everywhere else they stay off until accepted (owner, 2026-11-04). Location is told from the IP address, looked up on LotJitsu's own servers, not stored and not shared. The footer link is named as it now reads, "Cookie Policy". What we collect, how we use it and who we share it with say the same.
+- Advertising measurement: how we use it, who we share it with, and cookies now describe Google Ads conversion measurement. For people in the United States, a verified sign-up or a new paid plan is reported to Google Ads with the time, the plan amount and a hashed email address, plus the ad's click identifier when they arrived from an ad; that identifier is kept in a cookie for up to 90 days. Google is asked not to personalize ads with any of it. In the phone app, iPhone reports only after Allow on Apple's tracking prompt; on Android the Play Store passes the ad click identifier. Wording owner-approved 2026-11-14; no user notice (owner, 2026-11-14).
+
 ### 1.2.0 (2026-10-12)
 
 - Effective date set to October 12, 2026. Status: Final. Owner-approved 2026-10-12.

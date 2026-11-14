@@ -1,7 +1,7 @@
 # LotJitsu Privacy Policy
 
-**Version:** 1.2.0
-**Effective date:** October 12, 2026
+**Version:** 1.2.1
+**Effective date:** November 14, 2026
 **Status:** Final
 
 This Privacy Policy explains how LotJitsu, L.L.C. ("LotJitsu," "we," "us") collects, uses, and shares information when you visit lotjitsu.com or use the LotJitsu application and related services.
@@ -14,7 +14,7 @@ This Privacy Policy explains how LotJitsu, L.L.C. ("LotJitsu," "we," "us") colle
 
 **Payment information.** Payments are processed by Stripe. Your card number goes to Stripe and never reaches our servers. We see that your plan is paid, the card brand, and the last four digits, not the full card number.
 
-**Usage information.** Standard server logs (IP address, request times, errors) used to run and secure the service, and, only if you opt in, analytics about which pages and features get used.
+**Usage information.** Standard server logs (IP address, request times, errors) used to run and secure the service, and analytics about which pages and features get used: on for visitors in the United States, and elsewhere only if you opt in.
 
 **Sign-in provider information.** If you sign in with Apple or Google, the provider sends us your name, your email address (or, with Apple's Hide My Email, a relay address), and an identifier for your account with them. We use it to create or recognize your LotJitsu account. We never receive your Apple or Google password.
 
@@ -30,7 +30,8 @@ This Privacy Policy explains how LotJitsu, L.L.C. ("LotJitsu," "we," "us") colle
 - To write your listings: when you use AI generation, your lot photographs are sent to our AI provider for processing. That is how the title and description get written; the model has to see the item. Your photos are not published anywhere by us and are not shared with other LotJitsu customers.
 - To bill you, through Stripe.
 - To send you transactional email you need: verification links, password resets, invitations, and service notices.
-- To improve the product, using analytics only if you consented to them.
+- To improve the product, using analytics: for visitors in the United States, and elsewhere only if you consented to them.
+- To measure our own advertising: when you verify your email or start a paid plan, we tell Google Ads, so we can see which of our ads bring in customers.
 
 We do not sell your personal information, and we do not use your data for third-party advertising.
 
@@ -44,7 +45,8 @@ Only service providers we use to run LotJitsu, and only what each needs:
 - **Help Scout** runs our support help desk and the Support Chat in the app and on the website. It receives your name, email address, the messages you send, and the account identifier, plan and app version we attach so we can help you.
 - **Apple** and **Google** verify your identity when you sign in with Apple or Google, and deliver push notifications to your device if you turn them on.
 - **Cloudflare** provides the bot protection on our sign-up and password forms; it receives the challenge response and your IP address.
-- **Google Analytics**, only if you accepted analytics cookies.
+- **Google Analytics**, for visitors in the United States, and elsewhere only if you accepted analytics cookies.
+- **Google Ads**, to measure our own ads, for people in the United States. When you verify your email or start a paid plan, we send Google the time, the plan amount and a scrambled (hashed) copy of your email address, so Google can tell whether one of our ads brought you. If you arrived from one of our ads, we also send that ad's click identifier. We ask Google not to use any of it to personalize ads. In the LotJitsu phone app on iPhone, this happens only if you tap Allow on Apple's tracking prompt. On Android, if you install the app from one of our ads, the Google Play Store passes us that ad's click identifier.
 
 Each provider is bound to use the information only to provide its service to us.
 
@@ -52,7 +54,9 @@ We may also disclose information if the law requires it, or to protect the servi
 
 ## 4. Cookies and analytics
 
-Essential cookies keep you signed in and are always on. Analytics cookies are off until you accept them, and you can decline or change your choice at any time from the Cookie Choices link in the site footer. Analytics, when on, tells us which pages get read and which features get used. It does not follow you around other websites.
+Essential cookies keep you signed in and are always on. If you are in the United States, analytics cookies are on as well, and we do not ask you to choose. Everywhere else, analytics cookies are off until you accept them, and you can decline or change your choice at any time from the Cookie Policy link in the site footer. We tell where you are from your IP address, looked up on our own servers; that lookup is not stored and is not shared. Analytics, when on, tells us which pages get read and which features get used. It does not follow you around other websites.
+
+In the United States, if you arrive from one of our ads, we also keep the ad's click identifier in a cookie for up to 90 days, for the measurement described in section 3.
 
 ## 5. Who can see your catalogs
 
